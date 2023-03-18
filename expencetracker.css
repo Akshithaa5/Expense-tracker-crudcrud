@@ -7,7 +7,7 @@
   body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
-    background-color: rgba(38, 131, 168, 0.726);
+    background-color: rgba(103, 100, 19, 0.726);
     }
   
   ul {
@@ -21,7 +21,7 @@
   } 
   
   header {
-    background: #c05e5e;
+    background: #eeeaea;
     padding: 1rem;
     text-align: center;
   }
@@ -35,7 +35,7 @@
   
   #my-form {
     padding: 2rem;
-    background: #c05e5e;
+    background: #076316;
   }
   
   #my-form label {
@@ -57,14 +57,14 @@
     width: 100%;
     padding: 10px 15px;
     border: 0;
-    background: #333;
+    background: #100303;
     color: #fff;
     border-radius: 5px;
     margin: 5px 0;
   }
   .ulList{
     color: white;
-    background-color: #c05e5e;
+    background-color: #53061c;
   }
   .delete{
     color: white;
